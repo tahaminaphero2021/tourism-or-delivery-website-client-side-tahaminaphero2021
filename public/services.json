@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar",
+        "description": "Cox's Bazar (/ˌkɒksɪz bəˈzɑː/; Bengali: কক্সবাজার, romanized: Kaksabājāra; pronounced [kɔksbadʒaɾ]) is a city, fishing port, tourism centre, and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach. It is located 150 km (93 mi) south of the city of Chittagong. Cox's Bazar is also known by the name Panowa,It has the longest sea beach in the world.",
+        "img": "https://image.freepik.com/free-photo/beautiful-girl-sitting-viewpoint-koh-nangyuan-island-near-koh-tao-island-surat-thani-thailand_335224-1093.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jaflong",
+        "description": "Jaflong (Bengali: জাফলং) is a hill station and tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh and the Indian state of Meghalaya, overshadowed by subtropical mountains and rainforests. It is known for its stone collections and is home of the Khasi tribe.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tLjvBqHvvwNcAHhXlPOrLiQ161PoGKcj2-TQzRPcyZn4S-5gI_hi0eNYx4JDd7yyD40&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Srimagal",
+        "description": "Sreemangal (Bengali: শ্রীমঙ্গল, romanized: Srimongol) is an upazila of Moulvibazar District[1] in the Sylhet Division of Bangladesh.It is said the name Sreemangal (or Srimangal) is named after Sri Das and Mangal Das; two brothers who settled on the banks of the Hail Haro.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sreemangal_tea_garden_2017-08-20.jpg/250px-Sreemangal_tea_garden_2017-08-20.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sundarbans",
+        "description": "Sundarbans has declared World Heritage Site by UNESCO which is the largest Mangrove Forest situated between two countries. It is the kingdom of Royal Bengal tiger and you will find various kinds of species of birds, animals & plants and I think you should visit the tranquilizing beauty of Sundarbans once in your life.",
+        "img": "https://blog.flyticket.com.bd/wp-content/uploads/2020/05/image001-1024x682.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Inani Beach",
+        "description": "Inani beach is known as a wonderful beach for its corals which become green in summer and rainy season. The blue water, sunrise, and sunset will help you to make you a memorable trip. You can bath here without any fear of a shark. You can see here crab, snail, sea fish, and many more creatures. The view of hills here will also touch your mind.",
+        "img": "https://blog.flyticket.com.bd/wp-content/uploads/2020/05/image028.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Patenga Sea Beach",
+        "description": "If you want to get away from busy city life then you can visit Patenga Sea Beach to enjoy the Bay of Bengal and the charming sunset. You can enjoy a water drive or boat trip here. There are also other entertainment facilities like a bike ride, horse ride, kites, etc. But the beach is narrow so it is better not to swim here.",
+        "img": "https://blog.flyticket.com.bd/wp-content/uploads/2020/05/image036.jpg"
+    }
+]
